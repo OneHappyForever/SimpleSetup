@@ -22,6 +22,6 @@ Obfucation: auth_sha1_v4_compatible/http_simple_compatible
 
 If you want to edit DNS from the default, change it here and restart Shadowsocks:
 ```
-nano /usr/local/shadowsocks/shadowsocks/dns.conf
+nano /usr/local/shadowsocks/dns.conf
 /etc/init.d/shadowsocks restart
 ```
